@@ -1,2 +1,2 @@
 # Tetris
-make solo Tetris in unity
+make Tetris(solo) in unity
